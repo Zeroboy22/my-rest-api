@@ -1,8 +1,8 @@
 const fs = require('fs')
 
 global.creator = 'Exodus Company'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
+global.MONGO_DB_URI = "Cluster0" //database mongodb 
+global.ACTIVATION_TOKEN_SECRET = "Exodus26+08+07@" //isi apa aja bebas
 global.your_email = "akbarj678@gmail.com" //email
 global.email_password = "" //application password email
 global.limitCount = 10000
